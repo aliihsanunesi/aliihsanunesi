@@ -4,3 +4,6 @@
 - 🌱 I’m currently learning Deep Learning
 - 💪 Fun fact: I love bodybuilding and running
 
+### Connect with me:
+
+[<img align="left" alt="aliihsan_unesi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]

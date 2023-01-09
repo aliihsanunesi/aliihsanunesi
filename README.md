@@ -1,7 +1,6 @@
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
-- 🌱 I’m currently learning Deep Learning
-- 💪 Fun fact: I love bodybuilding and running
+- 🌱 I’m currently learning Deep Learning - 💪 Fun fact: I love bodybuilding and running
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

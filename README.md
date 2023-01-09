@@ -13,11 +13,6 @@ Generate a [gif](https://github.com/Platane/snk/raw/output/github-contribution-g
 Available as github action. It can automatically generate a new image each day. Which makes for great [github profile readme](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme)
 ## Usage
 **github action**
-```yaml
-- uses: Platane/snk@v2
-  with:
-
-
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=D79921&size=30&lines=Hey!+It%27s+Ali%20İhsan!;I%27m+a+Developer...;And+I%27m+from+Türkiye)](https://git.io/typing-svg)

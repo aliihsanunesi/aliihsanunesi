@@ -1,8 +1,4 @@
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-Generate a [gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif) or [svg](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg) image.
-Available as github action. It can automatically generate a new image each day. Which makes for great [github profile readme](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=D79921&size=30&lines=Hey!+It%27s+Ali%20İhsan!;I%27m+a+Developer...;And+I%27m+from+Türkiye)](https://git.io/typing-svg)
-
 
 - 🌱 I’m currently learning Deep Learning
 - 💪 Fun fact: I love bodybuilding and running

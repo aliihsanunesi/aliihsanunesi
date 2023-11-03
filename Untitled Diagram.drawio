@@ -1,47 +1,62 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T01:19:05.295Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="4bYR_9U_c2wtHnIC4S9m" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-03T01:30:06.725Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="EhVLzBGy4Z4197cCcewQ" version="22.0.8" type="github">
   <diagram name="Page-1" id="d9b1e647-80fa-b4a2-5024-87a742678bcc">
-    <mxGraphModel dx="989" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sL1jfcG8VI4Qpkb4WEm1-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="57fe6abec08f04cb-1" target="57fe6abec08f04cb-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="57fe6abec08f04cb-1" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Sağlık&lt;/blockquote&gt;" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0080FF;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="90" y="180" width="170" height="80" as="geometry" />
+          <mxGeometry x="30" y="180" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="57fe6abec08f04cb-2" value="Kişisel Gelişim" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0075E8;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="240" y="180" width="170" height="80" as="geometry" />
+          <mxGeometry x="270" y="180" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sL1jfcG8VI4Qpkb4WEm1-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="57fe6abec08f04cb-3" target="57fe6abec08f04cb-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="57fe6abec08f04cb-3" value="Okul" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0067CC;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="390" y="180" width="170" height="80" as="geometry" />
+          <mxGeometry x="510" y="180" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sL1jfcG8VI4Qpkb4WEm1-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="57fe6abec08f04cb-4" target="57fe6abec08f04cb-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="57fe6abec08f04cb-4" value="Kariyer" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0062C4;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="540" y="180" width="170" height="80" as="geometry" />
+          <mxGeometry x="750" y="180" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sL1jfcG8VI4Qpkb4WEm1-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="57fe6abec08f04cb-5" target="57fe6abec08f04cb-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="57fe6abec08f04cb-5" value="Meslek" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0059B0;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="690" y="180" width="170" height="80" as="geometry" />
+          <mxGeometry x="990" y="180" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="57fe6abec08f04cb-6" value="İş Süreci" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#004D99;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="840" y="180" width="170" height="80" as="geometry" />
+          <mxGeometry x="1230" y="180" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="57fe6abec08f04cb-7" value="2023-2024 İhsan Yol Cizgisi" style="text;html=1;strokeColor=none;fillColor=#61BAFF;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=54;fontStyle=1;fontColor=#004D99;" parent="1" vertex="1">
-          <mxGeometry x="120" y="110" width="860" height="60" as="geometry" />
+          <mxGeometry x="320" y="80" width="860" height="60" as="geometry" />
         </mxCell>
         <mxCell id="57fe6abec08f04cb-8" value="()Dikkat Eksliği&lt;br&gt;()Odaklanamama&lt;br&gt;()Hiperaktivite&lt;br&gt;()Meditasyon&lt;br&gt;()Sesler (Adaptasyon)&lt;br&gt;()Anksiyete&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;()Depresyon&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;()Ailecek Psikoloji" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="90" y="280" width="140" height="130" as="geometry" />
+          <mxGeometry x="30" y="320" width="160" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="sL1jfcG8VI4Qpkb4WEm1-2" value="()Dikkat Eksliği&lt;br&gt;()Odaklanamama&lt;br&gt;()Hiperaktivite&lt;br&gt;()Meditasyon&lt;br&gt;()Sesler (Adaptasyon)&lt;br&gt;()Anksiyete&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;()Depresyon&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;()Ailecek Psikoloji" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="240" y="280" width="140" height="130" as="geometry" />
+        <mxCell id="sL1jfcG8VI4Qpkb4WEm1-2" value="&amp;nbsp; &amp;nbsp; BTK Eğitim&lt;br&gt;()Problem Çözme&amp;nbsp;&lt;br&gt;()Etkili İletişim&lt;br&gt;()Takım Çalışması&lt;br&gt;()Kriz Yönetimi&lt;br&gt;()Sunum Hazırlama Teknikleri&lt;br&gt;()İngilizce A1&lt;br&gt;()İngilizce A2&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;()Yazılı İletişim Teknikleri" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="320" width="140" height="130" as="geometry" />
         </mxCell>
         <mxCell id="sL1jfcG8VI4Qpkb4WEm1-3" value="()Dikkat Eksliği&lt;br&gt;()Odaklanamama&lt;br&gt;()Hiperaktivite&lt;br&gt;()Meditasyon&lt;br&gt;()Sesler (Adaptasyon)&lt;br&gt;()Anksiyete&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;()Depresyon&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;()Ailecek Psikoloji" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="390" y="280" width="140" height="130" as="geometry" />
+          <mxGeometry x="510" y="320" width="140" height="130" as="geometry" />
         </mxCell>
         <mxCell id="sL1jfcG8VI4Qpkb4WEm1-6" value="()Dikkat Eksliği&lt;br&gt;()Odaklanamama&lt;br&gt;()Hiperaktivite&lt;br&gt;()Meditasyon&lt;br&gt;()Sesler (Adaptasyon)&lt;br&gt;()Anksiyete&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;()Depresyon&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;()Ailecek Psikoloji" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="840" y="280" width="140" height="130" as="geometry" />
+          <mxGeometry x="1230" y="320" width="140" height="130" as="geometry" />
         </mxCell>
         <mxCell id="sL1jfcG8VI4Qpkb4WEm1-7" value="()Dikkat Eksliği&lt;br&gt;()Odaklanamama&lt;br&gt;()Hiperaktivite&lt;br&gt;()Meditasyon&lt;br&gt;()Sesler (Adaptasyon)&lt;br&gt;()Anksiyete&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;()Depresyon&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;()Ailecek Psikoloji" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="690" y="280" width="140" height="130" as="geometry" />
+          <mxGeometry x="990" y="320" width="140" height="130" as="geometry" />
         </mxCell>
         <mxCell id="sL1jfcG8VI4Qpkb4WEm1-8" value="()Dikkat Eksliği&lt;br&gt;()Odaklanamama&lt;br&gt;()Hiperaktivite&lt;br&gt;()Meditasyon&lt;br&gt;()Sesler (Adaptasyon)&lt;br&gt;()Anksiyete&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;()Depresyon&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;()Ailecek Psikoloji" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="540" y="280" width="140" height="130" as="geometry" />
+          <mxGeometry x="750" y="320" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="sL1jfcG8VI4Qpkb4WEm1-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.17;entryY=0.505;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="57fe6abec08f04cb-2" target="57fe6abec08f04cb-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

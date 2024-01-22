@@ -3,7 +3,7 @@
 <img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" height="240" width="370">
 
 
-<h1 align="center">Hi, I'm Ali İhsan</h1>
+<h1 align="center">Selam Ben Ali İhsan</h1>
 <h3 align="center">Yönetim Bilişim Sistemleri öğrencisi, Front-end Tutkunu: Bilgi ve Yaratıcılığı Tek Noktada Buluşturan Bir Aday</h3>
 
 - 🌱 I’m currently learning **I’m currently learning Deep Learning**

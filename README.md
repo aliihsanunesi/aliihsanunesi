@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Ali İhsan</h1>
+<h1 align="center">Merhaba ben Ali İhsan Üneşi</h1>
 <h3 align="center">Yönetim Bilişim Sistemleri öğrencisi, Front-end Tutkunu: Bilgi ve Yaratıcılığı Tek Noktada Buluşturan Bir Aday</h3>
 
-- 🌱 I’m currently learning **I’m currently learning Deep Learning**
+- 🌱 I’m currently learning **Durmadan Öğrenmeye devam**
 
-- ⚡ Fun fact **I love bodybuilding and running**
+- ⚡ Fun fact **Vücut geliştirme ve koşu yapmayı severim**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
